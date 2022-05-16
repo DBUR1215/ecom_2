@@ -23,7 +23,7 @@ class Catagory1Controller extends Controller
     echo "  saved successfully.";
                }
     else{
-     echo "Sorry, try again something went wrong.";
+      echo "Sorry, try again something went wrong.";
        }
 
        
